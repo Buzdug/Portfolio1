@@ -1,0 +1,66 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background: #F5F5F5;
+}
+
+.navbar {
+	margin-bottom: 0px;
+    border-radius: 0px;
+}
+
+.jumbotron {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0px;
+    height: 100%;
+    background-image: url(http://hdwallpaperfx.com/wp-content/uploads/2016/03/Geometric-Shape.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #eee;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.jumbotron h1 {
+	font-family: 'Palanquin', sans-serif;
+	font-weight: 300;
+}
+
+.jumbotron p {
+	font-family: 'Palanquin', sans-serif;
+	font-weight: 600;
+}
+
+.headshot {
+    display: block;
+    max-width: 250px;
+    height: auto;
+    margin: auto;
+}
+
+.about {
+    margin-top: 40px;
+}
+
+.page-header {
+    margin-top: 0px;
+}
+
+.container {
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+-webkit-box-shadow: 0px 3px 25px 0px rgba(50, 50, 50, 0.86);
+   -moz-box-shadow: 0px 3px 25px 0px rgba(50, 50, 50, 0.86);
+        box-shadow: 0px 3px 25px 0px rgba(50, 50, 50, 0.86);
+}
+
+.portheader {
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+}
